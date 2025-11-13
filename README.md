@@ -23,7 +23,7 @@ This session explores multi-word expressions and phrase patterns in literary tex
    - Compare PMI-based collocations across works
    - Export reproducible analysis artifacts
 
-3. **POS Pattern Frequency** ([`3_AppliedNLP_Session2_POS_Patterns.ipynb`](./notebooks/3_AppliedNLP_Session2_POS_Patterns.ipynb))
+3. **POS Pattern Frequency** ([`3_AppliedNLP_Session2_POS_Patterns.ipynb`](notebooks/2_AppliedNLP_Session2_POS_Patterns.ipynb))
    - Analyze grammatical patterns in bigrams (ADJ+NOUN, VERB+NOUN, etc.)
    - Apply spaCy POS tagging for syntactic analysis
    - Visualize distribution of POS patterns
@@ -35,7 +35,7 @@ This session explores multi-word expressions and phrase patterns in literary tex
    - Analyze diversity trends by section/chapter
    - Interpret TTR as indicator of stylistic formulaicity vs. variety
 
-5. **Collocation Network** ([`5_AppliedNLP_Session2_Collocation_Network.ipynb`](./notebooks/5_AppliedNLP_Session2_Collocation_Network.ipynb))
+5. **Collocation Network** ([`5_AppliedNLP_Session2_Collocation_Network.ipynb`](notebooks/3_AppliedNLP_Session2_Collocation_Network.ipynb))
    - Visualize word collocations as network graphs
    - Identify hub words and collocation clusters
    - Explore phrase structure through network topology
